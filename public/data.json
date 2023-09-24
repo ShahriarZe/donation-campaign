@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/JFj43Db/Education.png",
+        "title": "Clean Water Initiative",
+        "category": "Education",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#ecf0f1",
+        "text_button_bg_color": "#2ecc71",
+        "description": "Help provide clean and safe drinking water to communities in need around the world.",
+        "price": "$25"
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/Jjm9BsG/Food.png",
+        "title": "Education for Underprivileged Children",
+        "category": "Food",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f1c40f",
+        "text_button_bg_color": "#e67e22",
+        "description": "Support the education of children who lack access to quality schooling opportunities.",
+        "price": "$50"
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/X8tHNm8/Health.png",
+        "title": "Hunger Relief Program",
+        "category": "Health",
+        "category_bg_color": "#9b59b6",
+        "card_bg_color": "#34495e",
+        "text_button_bg_color": "#e74c3c",
+        "description": "Contribute to feeding hungry individuals and families in your local community.",
+        "price": "$10"
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/NppHFrS/Clothing.png",
+        "title": "Medical Supplies for Disaster Relief",
+        "category": "Clothing",
+        "category_bg_color": "#e67e22",
+        "card_bg_color": "#e74c3c",
+        "text_button_bg_color": "#f39c12",
+        "description": "Provide essential medical supplies to disaster-stricken areas and save lives.",
+        "price": "$30"
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/JFj43Db/Education.png",
+        "title": "Animal Shelter Support",
+        "category": "Education",
+        "category_bg_color": "#1abc9c",
+        "card_bg_color": "#27ae60",
+        "text_button_bg_color": "#3498db",
+        "description": "Help rescue and care for abandoned and abused animals in your community.",
+        "price": "$20"
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/Jjm9BsG/Food.png",
+        "title": "Environmental Conservation",
+        "category": "Food",
+        "category_bg_color": "#f39c12",
+        "card_bg_color": "#e67e22",
+        "text_button_bg_color": "#d35400",
+        "description": "Support initiatives dedicated to protecting and preserving our planet's ecosystems.",
+        "price": "$35"
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/X8tHNm8/Health.png",
+        "title": "Empowering Women Entrepreneurs",
+        "category": "Health",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#9b59b6",
+        "text_button_bg_color": "#34495e",
+        "description": "Invest in the success of women-owned businesses and promote gender equality.",
+        "price": "$15"
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/NppHFrS/Clothing.png",
+        "title": "Supporting Refugees",
+        "category": "Clothing",
+        "category_bg_color": "#d35400",
+        "card_bg_color": "#f1c40f",
+        "text_button_bg_color": "#e67e22",
+        "description": "Provide aid and assistance to refugees fleeing conflict and persecution.",
+        "price": "$40"
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/JFj43Db/Education.png",
+        "title": "Youth Mentorship Program",
+        "category": "Education",
+        "category_bg_color": "#27ae60",
+        "card_bg_color": "#1abc9c",
+        "text_button_bg_color": "#3498db",
+        "description": "Mentor and guide young people towards a brighter future.",
+        "price": "$5"
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/Jjm9BsG/Food.png",
+        "title": "Elderly Care Services",
+        "category": "Food",
+        "category_bg_color": "#f1c40f",
+        "card_bg_color": "#e74c3c",
+        "text_button_bg_color": "#d35400",
+        "description": "Provide companionship and assistance to seniors in need of care and support.",
+        "price": "$25"
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/X8tHNm8/Health.png",
+        "title": "Arts and Culture Preservation",
+        "category": "Health",
+        "category_bg_color": "#34495e",
+        "card_bg_color": "#3498db",
+        "text_button_bg_color": "#27ae60",
+        "description": "Help preserve and promote cultural heritage through art and cultural initiatives.",
+        "price": "$15"
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/NppHFrS/Clothing.png",
+        "title": "Disaster Relief Fund",
+        "category": "Clothing",
+        "category_bg_color": "#9b59b6",
+        "card_bg_color": "#27ae60",
+        "text_button_bg_color": "#1abc9c",
+        "description": "Support disaster relief efforts to provide aid to communities affected by natural disasters.",
+        "price": "$50"
+    }
+]
