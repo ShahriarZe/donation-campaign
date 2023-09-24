@@ -7,7 +7,7 @@
         "title_color": "#79C23F",
         "category_bg_color": "#e74c3c",
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
-        "text_button_bg_color": "#e67e22",
+        "text_button_bg_color": "#79C23F",
         "description": "Support the education of children who lack access to quality schooling opportunities.",
         "price": "$50"
     },
@@ -19,7 +19,7 @@
         "title_color":"#FF444A",
         "category_bg_color": "#3498db",
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
-        "text_button_bg_color": "#2ecc71",
+        "text_button_bg_color": "#FF444A",
         "description": "Help provide clean and safe drinking water to communities in need around the world.",
         "price": "$25"
     },
@@ -43,7 +43,7 @@
         "title_color": "#0052FF",
         "category_bg_color": "rgba(0, 82, 255, 0.15)",
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
-        "text_button_bg_color": "#f39c12",
+        "text_button_bg_color": "#0052FF",
         "description": "Provide essential medical supplies to disaster-stricken areas and save lives.",
         "price": "$30"
     },
@@ -55,7 +55,7 @@
         "title_color":"#F87147",
         "category_bg_color": "#3498db",
         "card_bg_color": "rgba(248, 113, 71, 0.15)",
-        "text_button_bg_color": "#34495e",
+        "text_button_bg_color": "#e74c3c",
         "description": "Invest in the success of women-owned businesses and promote gender equality.",
         "price": "$15"
     },
@@ -67,7 +67,7 @@
         "title_color": "#79C23F",
         "category_bg_color": "#f1c40f",
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
-        "text_button_bg_color": "#d35400",
+        "text_button_bg_color": "#79C23F",
         "description": "Provide companionship and assistance to seniors in need of care and support.",
         "price": "$25"
     },
@@ -79,7 +79,7 @@
         "title_color": "#0052FF",
         "category_bg_color": "#9b59b6",
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
-        "text_button_bg_color": "#1abc9c",
+        "text_button_bg_color": "#0052FF",
         "description": "Support disaster relief efforts to provide aid to communities affected by natural disasters.",
         "price": "$50"
     },
@@ -91,7 +91,7 @@
         "title_color":"#FF444A",
         "category_bg_color": "#1abc9c",
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
-        "text_button_bg_color": "#3498db",
+        "text_button_bg_color": "#FF444A",
         "description": "Help rescue and care for abandoned and abused animals in your community.",
         "price": "$20"
     },
@@ -103,7 +103,7 @@
         "title_color":"#FF444A",
         "category_bg_color": "#27ae60",
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
-        "text_button_bg_color": "#3498db",
+        "text_button_bg_color": "#FF444A",
         "description": "Mentor and guide young people towards a brighter future.",
         "price": "$5"
     },
@@ -115,7 +115,7 @@
         "title_color": "#0052FF",
         "category_bg_color": "#d35400",
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
-        "text_button_bg_color": "#e67e22",
+        "text_button_bg_color": "#0052FF",
         "description": "Provide aid and assistance to refugees fleeing conflict and persecution.",
         "price": "$40"
     },
@@ -127,7 +127,7 @@
         "title_color":"#F87147",
         "category_bg_color": "#34495e",
         "card_bg_color": "rgba(248, 113, 71, 0.15)",
-        "text_button_bg_color": "#27ae60",
+        "text_button_bg_color": "#e74c3c",
         "description": "Help preserve and promote cultural heritage through art and cultural initiatives.",
         "price": "$15"
     },
@@ -139,7 +139,7 @@
         "title_color": "#79C23F",
         "category_bg_color": "#f39c12",
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
-        "text_button_bg_color": "#d35400",
+        "text_button_bg_color": "#79C23F",
         "description": "Support initiatives dedicated to protecting and preserving our planet's ecosystems.",
         "price": "$35"
     }
