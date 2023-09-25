@@ -9,7 +9,7 @@
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
         "text_button_bg_color": "#79C23F",
         "description": "Food donation is a selfless act of sharing nourishment with those in need, a gesture that extends a helping hand and fills empty stomachs with hope.Support the children who lack access to quality schooling opportunities by donating Food.",
-        "price": "$50"
+        "price": 50
     },
     {
         "id": 1,
@@ -21,7 +21,7 @@
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
         "text_button_bg_color": "#FF444A",
         "description": "Education donation empowers individuals by providing access to knowledge, skills, and opportunities they might not otherwise have had.Help provide clean and safe drinking water to communities in need around the world.",
-        "price": "$25"
+        "price": 25
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "card_bg_color": "rgba(248, 113, 71, 0.15)",
         "text_button_bg_color": "#e74c3c",
         "description": "Health donation saves lives and improves the well-being of individuals and communities by funding medical care, research, and access to essential healthcare services.Contribute to feeding hungry individuals and families in your local community.",
-        "price": "$10"
+        "price": 10
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
         "text_button_bg_color": "#0052FF",
         "description": "Clothing donation is a meaningful act of generosity, providing clothing to those in need and helping them stay warm, dignified, and comfortable.Provide essential medical supplies to disaster-stricken areas and save lives.",
-        "price": "$30"
+        "price": 30
     },
     {
         "id": 7,
@@ -57,7 +57,7 @@
         "card_bg_color": "rgba(248, 113, 71, 0.15)",
         "text_button_bg_color": "#e74c3c",
         "description": "Health Donation can encompass financial contributions to hospitals, medical supplies, or support for medical missions, aiming to alleviate suffering and promote better health outcomes.Invest in the success of women-owned businesses and promote gender equality.",
-        "price": "$15"
+        "price": 15
     },
     {
         "id": 10,
@@ -69,7 +69,7 @@
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
         "text_button_bg_color": "#79C23F",
         "description": "Food Donation involves giving surplus or non-perishable food items to food banks, shelters, or community organizations, reducing food waste and addressing hunger in our communities.Provide companionship and assistance to seniors in need of care and support.",
-        "price": "$25"
+        "price": 25
     },
     {
         "id": 12,
@@ -81,7 +81,7 @@
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
         "text_button_bg_color": "#0052FF",
         "description": "Clothing Donation involves giving gently-used or new clothing items to charities, shelters, or individuals facing economic hardships, promoting sustainability and reducing textile waste.Support disaster relief efforts to provide aid to communities affected by natural disasters.",
-        "price": "$50"
+        "price": 50
     },
     {
         "id": 5,
@@ -93,7 +93,7 @@
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
         "text_button_bg_color": "#FF444A",
         "description": "Educational donation can take the form of scholarships, educational resources, or support for schools and institutions, breaking down barriers to learning and fostering a brighter future.Help rescue and care for abandoned and abused animals in your community.",
-        "price": "$20"
+        "price": 20
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
         "card_bg_color": "rgba(255, 68, 74, 0.15)",
         "text_button_bg_color": "#FF444A",
         "description": "Education donation is an investment in human potential, promoting equality and shaping a more educated, informed, and equitable society.Mentor and guide young people towards a brighter future.",
-        "price": "$5"
+        "price": 5
     },
     {
         "id": 8,
@@ -117,7 +117,7 @@
         "card_bg_color": "rgba(0, 82, 255, 0.15)",
         "text_button_bg_color": "#0052FF",
         "description": "Clothing donation not only offers tangible support but also restores confidence and self-esteem, allowing recipients to face life's challenges with renewed hope and dignity.Provide aid and assistance to refugees fleeing conflict and persecution.",
-        "price": "$40"
+        "price": 40
     },
     {
         "id": 11,
@@ -129,7 +129,7 @@
         "card_bg_color": "rgba(248, 113, 71, 0.15)",
         "text_button_bg_color": "#e74c3c",
         "description": "Health donation embodies the spirit of compassion and solidarity, addressing healthcare disparities and ensuring that everyone has a chance to lead a healthier, more fulfilling life.Help preserve and promote cultural heritage through art and cultural initiatives.",
-        "price": "$15"
+        "price": 15
     },
     {
         "id": 6,
@@ -141,6 +141,6 @@
         "card_bg_color": "rgba(121, 194, 63, 0.15)",
         "text_button_bg_color": "#79C23F",
         "description": "Food donation embodies the spirit of compassion, bridging the gap between abundance and scarcity, and ensuring that no one goes to bed hungry.Support initiatives dedicated to protecting and preserving our planet's ecosystems.",
-        "price": "$35"
+        "price": 35
     }
 ]
