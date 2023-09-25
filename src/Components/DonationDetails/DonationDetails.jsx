@@ -18,7 +18,7 @@ const DonationDetails = ({ donate }) => {
                         <button className="flex text-xl justify-start px-3 py-1  rounded mt-4 mb-4" style={buttonstyle}>{category}</button>
                     </div>
                 <h2 className="card-title text-black">{title}</h2>
-                <p>$ {price}</p>
+                <p className="text-xl">$ {price}</p>
                 <div className="card-actions ">
                     <button className="btn" style={buttonstyle}>Details</button>
                 </div>
