@@ -34,19 +34,16 @@ const ViewDetails = () => {
         }
     }
     return (
-        <div className=" md:ml-20 ">
+        <div className="">
             <div className=" max-w-7xl mx-auto">
                 <div className=" mt-10 relative">
-                    <img className="w-[100vh]" src={card.picture} alt="" />
-                    <div className='inset-0 bg-black opacity-60 h-[90px]
-                     top-[175px] left-[0px] md:w-[585px] md:top-[275px] lg:w-[930px] lg:h-[150px] absolute lg:-left-[0px] lg:top-[430px]'>
-
+                    <img className="w-full" src={card.picture} alt="" />
+                    <div className='bg-black inset-0 opacity-60 absolute top-auto  h-20 md:h-24 lg:h-32'>
+                        
                     </div>
-                </div>
-                <div className='bg-black'>
-                </div>
-                <div>
-                    <button onClick={handleDonate} className="p-3 font-bold absolute bottom-56 left-6 md:left-24 md:bottom-28 lg:bottom-64 lg:left-96" style={buttonstyle}>Donate ${card.price}</button>
+                    <div className='absolute bottom-4 lg:bottom-10 left-10'>
+                        <button onClick={handleDonate} className="p-3 font-bold " style={buttonstyle}>Donate ${card.price}</button>
+                    </div>
                 </div>
 
                 <div>

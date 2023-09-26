@@ -6,7 +6,6 @@ const Statistics = () => {
     const [data, setData] = useState([])
     const [donateId, setDonateId] = useState([])
     const [percentValue, setPercentValue] = useState(0)
-    console.log(donateId);
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())
