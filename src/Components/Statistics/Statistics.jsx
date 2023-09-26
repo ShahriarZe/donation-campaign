@@ -50,8 +50,8 @@ const Statistics = () => {
 
     }
     return (
-        <div className=''>
-            <div>
+        <div className=' '>
+            <div className="">
                 <ApexChart
                     options={settings}
                     series={chartData.map(item => item.data)}
