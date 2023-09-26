@@ -43,22 +43,21 @@ const Statistics = () => {
         data: userPercentage,
     }]
     const settings = {
-        lebels: chartData.map(item => item.name),
+        labels: chartData.map(item => item.name),
         legend: {
             position: 'bottom'
-        }
-
+        },
+        colors:['#00C49F', '#FF444A']
     }
     return (
-        <div className=' '>
-            <div className="">
-                <ApexChart
-                    options={settings}
-                    series={chartData.map(item => item.data)}
-                    type="pie"
-                    width={500}
-                ></ApexChart>
-            </div>
+
+        <div className="flex justify-center mx-auto lg:mt-20">
+            <ApexChart
+                options={settings}
+                series={chartData.map(item => item.data)}
+                type="pie"
+                width={400}
+            ></ApexChart>
         </div>
     );
 };
