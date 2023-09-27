@@ -46,17 +46,18 @@ const Statistics = () => {
         legend: {
             position: 'bottom'
         },
-        colors:['#00C49F', '#FF444A']
+        colors: ['#00C49F', '#FF444A'],
     }
     return (
 
-        <div className="flex justify-center mx-auto lg:mt-20">
-            <ApexChart
-                options={settings}
-                series={chartData.map(item => item.data)}
-                type="pie"
-                width={400}
-            ></ApexChart>
+        <div className="w-full md:1/2 lg:1/3 flex justify-center mx-auto lg:mt-20">
+            <div className="w-full md:w-2/3 lg:w-1/2 xl:w-1/3">
+                <ApexChart
+                    options={settings}
+                    series={chartData.map(item => item.data)}
+                    type="pie"
+                ></ApexChart>
+            </div>
         </div>
     );
 };
